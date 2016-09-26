@@ -1,6 +1,6 @@
-# _Scrabble_
+# _Soul Airlines_
 
-####_A flight planning app  09/26/2016_
+####_Connecting Many Cities to Many Airplanes  09/26/2016_
 
 #### By _**Nicolas Hurtado, Cornelius Range, Anand Angalig**_
 
@@ -17,7 +17,7 @@ _A flight planning program that lets users choose departure and arrival cities a
     * _Navigate to the directory in which you want the project to reside_
 
     * _Enter the following command into your terminal:_
-        _git clone https://github.com/anandangalig/scrabble.git_
+        _git clone https://github.com/anandangalig/airlines-php.git_
 
     * _Navigate to the cloned directory, and execute the following command in the terminal:_
           _composer install_
@@ -49,13 +49,14 @@ _A flight planning program that lets users choose departure and arrival cities a
 
 ## Known Bugs
 
-_None yet_
+_Work In Progress - needs frontend._
 
 
 ## Support and Contact Details
 
 _Please feel free to contact us at:_
-    _alcornmeredith@gmail.com_
+    _nickh93@outlook.com_
+    _cfr2116@columbia.edu_
     _anandangalig@gmail.com_
 
 ## Technologies Used
@@ -73,4 +74,4 @@ _The above copyright notice and this permission notice shall be included in all 
 
 _THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE._
 
-Copyright (c) 2016 **_Meredith Alcorn & Anand Angalig_**
+Copyright (c) 2016 **_Nicolas Hurtado, Anand Angalig & Cornelius Range_**
